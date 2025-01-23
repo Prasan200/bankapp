@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Prasan200/BankApp.git/static/css/main.b5335075.css",
-    "main.js": "/Prasan200/BankApp.git/static/js/main.cac30d86.js",
-    "static/js/488.9cf60de5.chunk.js": "/Prasan200/BankApp.git/static/js/488.9cf60de5.chunk.js",
-    "index.html": "/Prasan200/BankApp.git/index.html",
-    "main.b5335075.css.map": "/Prasan200/BankApp.git/static/css/main.b5335075.css.map",
-    "main.cac30d86.js.map": "/Prasan200/BankApp.git/static/js/main.cac30d86.js.map",
-    "488.9cf60de5.chunk.js.map": "/Prasan200/BankApp.git/static/js/488.9cf60de5.chunk.js.map"
+    "main.css": "/Prasan200/bankApp.git/static/css/main.b5335075.css",
+    "main.js": "/Prasan200/bankApp.git/static/js/main.78b5d79a.js",
+    "static/js/488.9cf60de5.chunk.js": "/Prasan200/bankApp.git/static/js/488.9cf60de5.chunk.js",
+    "index.html": "/Prasan200/bankApp.git/index.html",
+    "main.b5335075.css.map": "/Prasan200/bankApp.git/static/css/main.b5335075.css.map",
+    "main.78b5d79a.js.map": "/Prasan200/bankApp.git/static/js/main.78b5d79a.js.map",
+    "488.9cf60de5.chunk.js.map": "/Prasan200/bankApp.git/static/js/488.9cf60de5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5335075.css",
-    "static/js/main.cac30d86.js"
+    "static/js/main.78b5d79a.js"
   ]
 }
